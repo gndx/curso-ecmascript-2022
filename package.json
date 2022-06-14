@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Oscar Barajas <oscar@platzi.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
