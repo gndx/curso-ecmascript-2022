@@ -12,5 +12,8 @@
   ],
   "author": "Oscar Barajas <oscar@platzi.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
 }
